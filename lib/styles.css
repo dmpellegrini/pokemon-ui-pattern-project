@@ -1,6 +1,6 @@
-* {
-  outline: solid red;
-}
+/* * { */
+/*   outline: solid red; */
+/* } */
 
 h1 {
   text-align: center;
@@ -23,6 +23,8 @@ h1 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  border: solid black 1px;
+  border-radius: 5px;
 }
 
 .info {
@@ -33,4 +35,10 @@ h1 {
 .bioBox {
   display: grid;
   grid-template-rows: 1fr 2fr 4fr;
+  text-align: center; 
+}
+
+li {
+  margin: 10px;
+  text-align: left;
 }
