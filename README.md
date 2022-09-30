@@ -5,7 +5,7 @@ Welcome to Danny's Pokémon Selector.
 Like previous projects, this one is also simple. You load the webpage in your favorite browser,
 look around, and click on your favorite Pokemon.
 
-Once, you do you, will get a modal displaying the pokemon's name, pokedex number and type
+Once you do you, will get a modal displaying the pokemon's name, pokedex number and type
 (Grass, Fire, Water etc...).  The region was sourced manually for simplicity.  
 
 ## How To Use 
